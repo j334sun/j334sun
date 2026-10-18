@@ -1,6 +1,6 @@
 # Jialu Sun
 
-I'm interested in **machine learning, data science, and AI safety**. My academic projects explore statistical modelling, model evaluation, and Python algorithms. I'm building this portfolio as I prepare for PhD applications.
+I'm interested in **machine learning, data science, and AI safety**. I work with Python and R to explore data, compare models, and understand their limitations.
 
 ## Featured project
 
@@ -19,8 +19,8 @@ An independent STAT 437 project using **2,864 observations from 179 countries** 
 
 My CS 231 coursework includes Python exercises in grid traversal, tree ancestry, exhaustive weighted-clique search, and recursive maximum-clique search. These provide practice translating specifications into code, working with data structures, and checking results on small examples.
 
-The organized coursework archive is private because it includes course-provided support code and assignment solutions. The archive distinguishes my exercise implementations from the supplied libraries.
+Course assignment solutions and supplied libraries are kept in a private archive.
 
-## Research direction
+## What I'm exploring
 
-I want to build on these foundations through work on AI safety and the evaluation of machine-learning systems. The projects above document my current modelling and programming experience; dedicated AI-safety research is a direction I am working toward.
+I'm interested in how machine-learning systems are evaluated, where they fail, and how to make them more reliable.
