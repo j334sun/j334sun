@@ -15,11 +15,6 @@ An independent STAT 437 project using **2,864 observations from 179 countries** 
 
 [Read the analysis and results →](https://github.com/j334sun/life-expectancy-mixed-effects#results-from-the-original-analysis)
 
-## Programming foundations
-
-My CS 231 coursework includes Python exercises in grid traversal, tree ancestry, exhaustive weighted-clique search, and recursive maximum-clique search. These provide practice translating specifications into code, working with data structures, and checking results on small examples.
-
-Course assignment solutions and supplied libraries are kept in a private archive.
 
 ## What I'm exploring
 
